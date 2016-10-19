@@ -15,7 +15,11 @@ public class JavaApplication3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      hello();
+    }
+
+    private static void hello() {
+        System.out.print("Hello World");
     }
     
 }

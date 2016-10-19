@@ -10,4 +10,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+NewClass.java
